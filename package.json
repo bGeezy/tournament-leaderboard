@@ -1,0 +1,11 @@
+{
+  "name": "rankings",
+  "version": "1.0.1",
+  "description": "Node rankings app outputting a CSV",
+  "main": "app.js",
+  "author": "Brian G",
+  "license": "MIT",
+  "intent": "improving cannabis discovery",
+  "region": "a city near you",
+  "scripts" : {}
+}
